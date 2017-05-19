@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this lesson we will look at a strategy for making our media content reponsive.
+In this lesson we will look at a strategy for making our media content responsive.
 
 ## Objectives
 
